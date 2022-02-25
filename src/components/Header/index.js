@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Nav from '../Navigation'
 
 const Header = ({setCurrentNav }) => {
-    
     return (
         <div className="header">
             <h2 className="m-2">

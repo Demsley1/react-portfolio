@@ -4,7 +4,7 @@ const Nav = (props) => {
     const {
         setCurrentNav
     } = props;
-    const pages = ['Projects', 'About Me', 'Resume', 'Contact']
+    const pages = ['Projects', 'About', 'Resume', 'Contact']
     return (
         <nav>
             {pages.map(page => (
@@ -24,11 +24,5 @@ const Nav = (props) => {
     );
 };
 
-/*  
-    <a className="nav-links" href="/projects">Projects</a>
-    <a className="nav-links" href="/aboutMe">About Me</a>
-    <a className="nav-links" href="/resume">Resume</a>
-    <a className="nav-links" href="/contact">Contact</a>
-*/
 
 export default Nav;
