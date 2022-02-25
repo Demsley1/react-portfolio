@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Header from '../src/components/Header'
 import Home from '../src/components/Home'
+import About from '../src/components/About'
 import Footer from '../src/components/Footer'
 import './App.css';
 
@@ -13,23 +14,21 @@ import './App.css';
 
 function App() {
   const [currentNav, setCurrentNav] = useState('Home')
-
   return (
     <main>
       <Header 
         currentNav={currentNav}
         setCurrentNav={setCurrentNav}
       />
-    
+
       <section className="body">
-      {currentNav == 'Home' (
+      {currentNav == 'Home' ? (
         <>
         <Home />
         </>
-      )}
-      {currentNav == 'About' (
+      ) : (
         <>
-        
+        <About />
         </>
       )}
       </section>
