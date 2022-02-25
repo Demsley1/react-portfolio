@@ -1,14 +1,37 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Header from '../src/components/Header'
+import Home from '../src/components/Home'
 import Footer from '../src/components/Footer'
 import './App.css';
 
+/* - Import Bootstrap,
+   - fix css sheet, and imports for it
+   - Conditionally render each page using nav element
+   - use the usestate hook to be able to control which page is rendered
+   - fill in content for page with arbitray info potentially
+*/ 
+
 function App() {
+  const [currentNav, setCurrentNav] = useState('Home')
+
   return (
     <main>
-      <Header />
+      <Header 
+        currentNav={currentNav}
+        setCurrentNav={setCurrentNav}
+      />
+    
       <section className="body">
-
+      {currentNav == 'Home' (
+        <>
+        <Home />
+        </>
+      )}
+      {currentNav == 'About' (
+        <>
+        
+        </>
+      )}
       </section>
       <Footer />
     </main>
