@@ -4,7 +4,7 @@ const Nav = (props) => {
     const {
         setCurrentNav
     } = props;
-    const pages = ['Projects', 'About', 'Resume', 'Contact']
+    const pages = ['About', 'Portfolio', 'Resume', 'Contact']
     return (
         <nav>
             {pages.map(page => (

@@ -26,6 +26,11 @@ code {
   min-height: 100vh;
 }
 
+.img {
+  height: 300px;
+  align-items: center;
+}
+
 .footer {
   background-color: black;
   height: 60px;

@@ -2,19 +2,19 @@ import React, { useState } from 'react';
 import Header from '../src/components/Header'
 import Home from '../src/components/Home'
 import About from '../src/components/About'
-import Projects from '../src/components/Projects'
+import Portfolio from '../src/components/Portfolio'
 import Contact from '../src/components/Contacts'
 import Resume from '../src/components/Resume'
 import Footer from '../src/components/Footer'
 
 
 function App() {
-  const [currentNav, setCurrentNav] = useState('Home')
+  const [currentNav, setCurrentNav] = useState('About')
   let body
   if(currentNav == 'About'){
     body = <About />
-  } else if(currentNav == 'Projects'){
-    body = <Projects />
+  } else if(currentNav == 'Portfolio'){
+    body = <Portfolio />
   } else if(currentNav == 'Contact'){
     body = <Contact />
   } else if(currentNav == 'Resume'){

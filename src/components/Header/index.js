@@ -5,7 +5,7 @@ const Header = ({setCurrentNav }) => {
     return (
         <div className="header">
             <h2 className="m-2">
-                <button className="title" onClick={()=>setCurrentNav('Home')}>Portfolio</button>
+                <button className="title" onClick={()=>setCurrentNav('Home')}>Denva Emsley</button>
             </h2>
 
             <Nav setCurrentNav={setCurrentNav} />
