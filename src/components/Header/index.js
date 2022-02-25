@@ -1,17 +1,15 @@
 import React, { useState } from 'react';
 import Nav from '../Navigation'
 
-const Header = ({ currentNav, setCurrentNav }) => {
-    const changeNav = () => {
-        
-    }
+const Header = ({setCurrentNav }) => {
+    
     return (
-        <div className="header d-flex justify-space-between">
+        <div className="header">
             <h2 className="m-2">
-                <a className="title" href="/">Portfolio</a>
+                <button className="title" onClick={()=>setCurrentNav('Home')}>Portfolio</button>
             </h2>
 
-            <Nav />
+            <Nav setCurrentNav={setCurrentNav} />
         </div>
     );
 };
