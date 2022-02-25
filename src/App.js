@@ -6,14 +6,7 @@ import Projects from '../src/components/Projects'
 import Contact from '../src/components/Contacts'
 import Resume from '../src/components/Resume'
 import Footer from '../src/components/Footer'
-import './App.css';
 
-/* - Import Bootstrap,
-   - fix css sheet, and imports for it
-   - Conditionally render each page using nav element
-   - use the usestate hook to be able to control which page is rendered
-   - fill in content for page with arbitray info potentially
-*/ 
 
 function App() {
   const [currentNav, setCurrentNav] = useState('Home')

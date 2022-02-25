@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  background-color: #282c34;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.body {
+  min-height: 100vh;
+}
+
+.footer {
+  background-color: black;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white
+}
+
+.title {
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0);
+  border: none
+}
+
+.nav-links {
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px 2px 10px yellow;
+  margin: 10px;
+}
