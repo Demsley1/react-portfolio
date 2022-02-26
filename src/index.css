@@ -28,7 +28,7 @@ code {
 
 .img {
   height: 300px;
-  align-items: center;
+  width: 100%
 }
 
 .footer {
