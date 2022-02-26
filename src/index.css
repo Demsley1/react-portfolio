@@ -31,6 +31,28 @@ code {
   width: 100%
 }
 
+.backdrop{
+  background-color: grey;
+}
+
+.selfie {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  background-color: gray;
+  height: 240px;
+  width: 190px;
+}
+
+.about-text {
+  margin: 20px;
+  padding: 20px; 
+  font-size: 18px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgba(19, 72, 245, 0.9);
+}
+
 .footer {
   background-color: black;
   height: 60px;
