@@ -86,6 +86,11 @@ code {
   min-height: 80vh;
 }
 
+.resume-link {
+  font-size: 30px;
+  height: 50vh;
+}
+
 .nav-links {
   text-decoration: none;
   color: white;
