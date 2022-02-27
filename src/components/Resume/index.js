@@ -5,7 +5,7 @@ function Resume() {
         <div className="d-flex flex-column justify-content-center align-content-center align-items-center">   
             <h1 className="text-center my-4">Resume/Skills</h1>
 
-            <div className="d-flex">
+            <div className="d-flex flex-wrap text-center">
                 <p className="resume-link">
                     <span className="">Click this link to download my Resume:     </span>
                     <a id="Resume" href="/links/Resume-starter.pub" download>Resume</a>
