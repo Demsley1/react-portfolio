@@ -31,14 +31,26 @@ code {
   margin: 10px;
 }
 
-
 .body {
   min-height: 100vh;
 }
 
 .img {
   height: 300px;
-  width: 100%
+  width: 100%;
+}
+
+.repo-link{
+  height: 32px;
+  width: 32px;
+  background-image: url(/public/GitHub-Mark-32px.png);
+  background-position: cover;
+}
+
+.repo-link:hover {
+  background-image: url(/public/GitHub-Mark-Light-32px.png);
+  background-color: rgba(51, 50, 50, 0.9);
+  border-radius: 20px;
 }
 
 .logo{

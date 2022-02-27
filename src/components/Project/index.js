@@ -5,18 +5,30 @@ const Project = () => {
         <ul className="d-flex flex-wrap justify-content-between my-5 list-group-flush">
             <li className="m-2 list-group-item col-5 d-grid">
                 <a href="https://still-ridge-48307.herokuapp.com/" target="_blank">
-                    <img className="img" src="/images/mixer.jpg" />
+                    <img alt="DJ mixer" className="img" src="/images/mixer.jpg" /> 
                 </a>
-
-                <h5 className="text-center my-3">Musit</h5>
+            
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Musit</h5>
+                    <a alt="musit-repo" className="m-1 repo-link" 
+                        href="https://github.com/Demsley1/musit_2" target="_blank"
+                    />
+                    
+                </div>
             </li>
+            
 
             <li className="m-2 list-group-item col-5 d-grid">
                 <a href="https://immense-island-78021.herokuapp.com/" target="_blank">
                     <img className="img" src="/images/mindgasm.jpg" />
                 </a>
 
-                <h5 className="text-center my-3">Deep-Thoughts</h5>
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Deep-Thoughts</h5>
+                    <a alt="deep-thoughts repo" className="m-1 repo-link" 
+                        href="https://github.com/Demsley1/deep-thoughts" target="_blank"
+                    /> 
+                </div>
             </li>
 
             <li className="m-2 list-group-item col-5 d-grid">
@@ -24,7 +36,12 @@ const Project = () => {
                     <img className="img" src="/images/weather-splash.jpg" />
                 </a>
 
-                <h5 className="text-center my-3">Weather-App</h5>
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Weather-App</h5>
+                    <a alt="Weather-app repo" className="m-1 repo-link" 
+                        href="https://github.com/Demsley1/weather-app" target="_blank"
+                    /> 
+                </div>
             </li>
 
             <li className="m-2 list-group-item col-5 d-grid">
@@ -32,7 +49,12 @@ const Project = () => {
                     <img className="img" src="/images/airplane.jpg" />
                 </a>
 
-                <h5 className="text-center my-3">Skipt</h5>
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Skipt</h5>
+                    <a alt="Skipt repo" className="m-1 repo-link" 
+                        href="https://github.com/mariovillaquiran/teamreactive" target="_blank"
+                    /> 
+                </div>
             </li>
 
             <li className="m-2 list-group-item col-5 d-grid">
@@ -40,7 +62,12 @@ const Project = () => {
                     <img className="img" src="/images/tech-blog.jpg" />
                 </a>
 
-                <h5 className="text-center my-3">Tech-Splash</h5>
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Tech-Splash</h5>
+                    <a alt="Tech-Splash repo" className="m-1 repo-link" 
+                        href="https://github.com/Demsley1/tech-splash" target="_blank"
+                    /> 
+                </div>
             </li>
 
             <li className="m-2 list-group-item col-5 d-grid">
@@ -48,7 +75,12 @@ const Project = () => {
                     <img className="img" src="/images/camera-lens.jpg" />
                 </a>
 
-                <h5 className="text-center my-3">Photo-Port</h5>
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Photo-Port</h5>
+                    <a alt="Photo-port repo" className="m-1 repo-link" 
+                        href="https://github.com/Demsley1/photo-port" target="_blank"
+                    /> 
+                </div>
             </li>
 
         </ul>
