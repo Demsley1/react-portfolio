@@ -2,8 +2,8 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div className="d-grid align-content-center justify-content-center">
-            <h2 className="my-3 text-center">Denva Emsley</h2>
+        <div className="backdrop d-grid align-content-center justify-content-center">
+            <h2 className="my-3 text-center text-white">Denva Emsley</h2>
 
             <div className="selfie border border-3 border-warning rounded-circle">
                 <p className='text-center'>Picture Goes Here</p>
