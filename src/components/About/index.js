@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div className="backdrop d-grid align-content-center justify-content-center">
+        <div className="backdrop d-flex flex-column justify-content-center align-items-center">
             <h2 className="my-3 text-center text-white">Denva Emsley</h2>
 
             <div className="selfie border border-3 border-warning rounded-circle">
