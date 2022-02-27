@@ -10,10 +10,14 @@ const Nav = (props) => {
             {pages.map(page => (
                 <button 
                     type="button" 
-                    className="btn btn-outline-primary mx-2"  
+                    className="btn btn-outline-primary mx-2" 
                     id={page} key={page}
                     onClick={() => {
                         setCurrentNav(page)
+                        document.getElementById(page).classList.add("active")
+                    }}
+                    onBlur={()=> {
+                        document.getElementById(page).classList.remove("active");
                     }}
                 >
                     {page}
