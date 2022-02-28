@@ -14,7 +14,7 @@
   - ![Screenshot2](public/images/Screen2.png)
   - ![Screenshot3](public/images/Screen3.png)
 
-  -Live Page: [Portfolio]()
+  -Live Page: [Portfolio](http://Demsley1.github.io/react-portfolio)
 
 
   ## Questions 
