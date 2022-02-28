@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from '../../assets/links/Resume-starter.pub'
 
 function Resume() {
     return (
@@ -8,7 +9,7 @@ function Resume() {
             <div className="d-flex flex-wrap text-center">
                 <p className="resume-link">
                     <span>Click here to download my Resume:     </span>
-                    <a className="btn btn-primary fs-5" id="Resume" href="src/assets/links/Resume-starter.pub" download>Download</a>
+                    <a className="btn btn-primary fs-5" id="Resume" href={resume} download="Resume-starter.pub">Download</a>
                 </p>
             </div>
             
