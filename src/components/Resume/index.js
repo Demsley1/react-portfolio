@@ -8,7 +8,7 @@ function Resume() {
             <div className="d-flex flex-wrap text-center">
                 <p className="resume-link">
                     <span>Click here to download my Resume:     </span>
-                    <a className="btn btn-primary fs-5" id="Resume" href="/links/Resume-starter.pub" download>download</a>
+                    <a className="btn btn-primary fs-5" id="Resume" href="/links/Resume-starter.pub" download>Download</a>
                 </p>
             </div>
             

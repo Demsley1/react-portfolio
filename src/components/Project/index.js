@@ -5,7 +5,7 @@ const Project = () => {
         <ul className="d-flex flex-wrap justify-content-evenly my-5 list-group-flush">
             <li className="m-2 list-group-item col-5-lg d-grid">
                 <a href="https://still-ridge-48307.herokuapp.com/" target="_blank">
-                    <img alt="DJ mixer" className="img" src="public/images/mixer.jpg" /> 
+                    <img alt="DJ mixer" className="img" src={require(`../../assets/images/mixer.jpg`)} /> 
                 </a>
             
                 <div className="d-flex justify-content-center align-items-center">
@@ -19,7 +19,7 @@ const Project = () => {
 
             <li className="m-2 list-group-item col-5-lg d-grid">
                 <a href="https://immense-island-78021.herokuapp.com/" target="_blank">
-                    <img alt="thought-tree" className="img" src="public/images/mindgasm.jpg" />
+                    <img alt="thought-tree" className="img" src={require('../../assets/images/mindgasm.jpg')}/>
                 </a>
 
                 <div className="d-flex justify-content-center align-items-center">
@@ -32,7 +32,7 @@ const Project = () => {
 
             <li className="m-2 list-group-item col-5-lg d-grid">
                 <a href="https://demsley1.github.io/weather-app/" target="_blank">
-                    <img alt="collage-of-weather" className="img" src="public/images/weather-splash.jpg" />
+                    <img alt="collage-of-weather" className="img" src={require('../../assets/images/weather-splash.jpg')} />
                 </a>
 
                 <div className="d-flex justify-content-center align-items-center">
@@ -45,7 +45,7 @@ const Project = () => {
 
             <li className="m-2 list-group-item col-5-lg d-grid">
                 <a href="https://mariovillaquiran.github.io/teamreactive/" target="_blank">
-                    <img alt="airplane" className="img" src="public/images/airplane.jpg" />
+                    <img alt="airplane" className="img" src={require('../../assets/images/airplane.jpg')} />
                 </a>
 
                 <div className="d-flex justify-content-center align-items-center">
@@ -58,7 +58,7 @@ const Project = () => {
 
             <li className="m-2 list-group-item col-5-lg d-grid">
                 <a href="https://safe-caverns-00312.herokuapp.com/" target="_blank">
-                    <img alt="computer-with-notes" className="img" src="public/images/tech-blog.jpg" />
+                    <img alt="computer-with-notes" className="img" src={require('../../assets/images/tech-blog.jpg')} />
                 </a>
 
                 <div className="d-flex justify-content-center align-items-center">
@@ -71,7 +71,7 @@ const Project = () => {
 
             <li className="m-2 list-group-item col-5-lg d-grid">
                 <a href="https://demsley1.github.io/photo-port/" target="_blank">
-                    <img alt="camera-lens" className="img" src="public/images/camera-lens.jpg" />
+                    <img alt="camera-lens" className="img" src={require('../../assets/images/camera-lens.jpg')} />
                 </a>
 
                 <div className="d-flex justify-content-center align-items-center">

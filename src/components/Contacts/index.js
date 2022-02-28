@@ -14,7 +14,7 @@ function Contact() {
                     <p>Email: emsley3684@gmail.com</p>
                     <p>Phone Number: (516)761-3072 </p>
 
-                    <img className="img my-5" src="/images/NYC.jpg" />
+                    <img className="img my-5" src={require('../../assets/images/NYC.jpg')} />
                 </div>
             </div>
         </section>
