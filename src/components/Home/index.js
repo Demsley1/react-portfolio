@@ -2,10 +2,13 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div className="d-flex flex-column justify-space-between">
-            <h1>This is My Homepage</h1> <br></br>
+        <div className="d-flex flex-column align-items-center justify-space-between">
+            <h1>Welcome and Enjoy</h1>
 
-            <p>This will probably be a quote or something interesting to grab my visitor's attention</p>
+            <div className="border border-3 border-dark my-5">
+                <img className="affiramtion" alt="daily-quote" src="/images/future-quote.jpg" />      
+            </div>  
+            <p>Words to live by.</p>          
         </div>
     );
 };

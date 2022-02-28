@@ -75,7 +75,14 @@ code {
   width: 190px;
 }
 
+.bio-title {
+  font-weight: bold;
+  font-size: 25px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .about-text {
+  color: white;
   margin: 50px;
   padding: 20px; 
   font-size: 18px;

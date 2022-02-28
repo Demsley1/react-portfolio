@@ -8,10 +8,11 @@ const Nav = (props) => {
     const pages = ['About', 'Portfolio', 'Resume', 'Contact']
 
     useEffect(() => {
+        if(currentNav != 'Home'){
         document.querySelectorAll(".nav-buttons").forEach(nav => {nav.classList.remove("active")})
 
         document.getElementById(currentNav).classList.add("active")
-
+        }
     }, [currentNav])
 
     return (

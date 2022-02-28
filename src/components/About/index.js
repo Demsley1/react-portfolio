@@ -11,7 +11,8 @@ const About = () => {
             </div>
 
             <p className="about-text container">
-                Here you will find an amazing portfolio created using the react-app generator by me, a junior full-stack web developer. This app as well as the few others I have linked in the portfolio are only examples
+                <span className="bio-title">Bio:</span><br></br>
+                    Here you will find an amazing portfolio created using the react-app generator by me, a junior full-stack web developer. This app as well as the few others I have linked in the portfolio are only examples
                 of the work I have been doing over the last six months as I steadliy learn and gain more knowledge in creating responsive webpages and apps. From designing elaborate elements to create a pleasing and 
                 easy to navigate UI for user's ot interact with, to lengthy coding of back-end servers for the support of interactive websites, I can say that I have experienced a good deal. When I started 
                 learning from the bootcamp I have joined I had little to no knowledge of the technological aspect of coding and web design. Thankfully will the help of the instructional staff, 
