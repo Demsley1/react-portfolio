@@ -82,6 +82,19 @@ const Project = () => {
                 </div>
             </li>
 
+            <li className="m-2 list-group-item col-5-lg d-grid">
+                <a href="https://enigmatic-basin-52191.herokuapp.com/" target="_blank">
+                    <img alt="concious-shopper" className="img" src={require('../../assets/images/conscious-shopper-comp.jpg')} />
+                </a>
+
+                <div className="d-flex justify-content-center align-items-center">
+                    <h5 className="m-1">Conscious Shopper</h5>
+                    <a alt="Conscious-Shopper repo" className="m-1 repo-link" 
+                        href="https://github.com/mavisyupyup1/project-3-group-d" target="_blank"
+                    /> 
+                </div>
+            </li>
+
         </ul>
     );
 };
