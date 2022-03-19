@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.3e283a7c.css",
-    "main.js": "/react-portfolio/static/js/main.798c595a.js",
+    "main.js": "/react-portfolio/static/js/main.d3d1900f.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/mindgasm.jpg": "/react-portfolio/static/media/mindgasm.8200d44a557a3a874b4b.jpg",
     "static/media/NYC.jpg": "/react-portfolio/static/media/NYC.333d4b3946c3b5b8aa44.jpg",
@@ -12,15 +12,16 @@
     "static/media/future-quote.jpg": "/react-portfolio/static/media/future-quote.1cb38f6f204470c74c74.jpg",
     "static/media/weather-splash.jpg": "/react-portfolio/static/media/weather-splash.8754c73ccbdc7eb09863.jpg",
     "static/media/mixer.jpg": "/react-portfolio/static/media/mixer.941e507b6d50284c4b44.jpg",
+    "static/media/conscious-shopper-comp.jpg": "/react-portfolio/static/media/conscious-shopper-comp.6cf6e9573f77902a187a.jpg",
     "static/media/backdrop2.jpg": "/react-portfolio/static/media/backdrop2.6ba11694e3dc167edb1e.jpg",
     "static/media/stack-overflow.png": "/react-portfolio/static/media/stack-overflow.579cff432dec19bc3d23.png",
     "index.html": "/react-portfolio/index.html",
     "main.3e283a7c.css.map": "/react-portfolio/static/css/main.3e283a7c.css.map",
-    "main.798c595a.js.map": "/react-portfolio/static/js/main.798c595a.js.map",
+    "main.d3d1900f.js.map": "/react-portfolio/static/js/main.d3d1900f.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e283a7c.css",
-    "static/js/main.798c595a.js"
+    "static/js/main.d3d1900f.js"
   ]
 }
