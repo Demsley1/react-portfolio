@@ -1,0 +1,51 @@
+[
+    {
+        "projectTitle": "Musit",
+        "projectImage": "DJ-mixer.jpg",
+        "projectWebsite": "https://still-ridge-48307.herokuapp.com/",
+        "projectRepo": "https://github.com/Demsley1/musit_2",
+        "description": "App developed as a collaborative effort for Columbia Coding Bootcamp. In the group project we developed an application where user's can collectively share their music interests by liking, creating, and conversing about playlists that are curated by individual users of the application. Individual portions of the work was completed, and then combined to complete the group effort."
+    },
+    {
+        "projectTitle": "Deep-Thoughts",
+        "projectImage": "thought-tree.jpg",
+        "projectWebsite": "https://immense-island-78021.herokuapp.com/",
+        "projectRepo": "https://github.com/Demsley1/deep-thoughts",
+        "description": "This is a project that was completed as part of my coding course with Columbia-Engineering bootcamp. The goal of this project is to create a social media type app where users can add thoughts, like thoughts, and friend other users. It is the first app I created use both front-end and backend for react. To allow servers to run both the front end and back end with graphql we had to use the concurrentley npm package."
+    },
+    {
+        "projectTitle": "Weather-App",
+        "projectImage": "weather-splash.jpg",
+        "projectWebsite": "https://demsley1.github.io/weather-app/",
+        "projectRepo": "https://github.com/Demsley1/weather-app",
+        "description": "A simple weather application used to display the weather of a searched for city location. Using the one-call weather API I was able to not only display the current cities main weather patterns, but also the 5-day local forecast for that city. For the user's benefit all previously searched for cities are saved and they can click on the item to re-search that location."
+    },
+    {
+        "projectTitle": "Skipt",
+        "projectImage": "airplane.jpg",
+        "projectWebsite": "https://mariovillaquiran.github.io/teamreactive/",
+        "projectRepo": "https://github.com/mariovillaquiran/teamreactive",
+        "description": "The first group project completed with the Columbia-Engineering bootcamp. This is a project that uses dom-manipualtion and API fetches to display infrmation for flights to and from user inputed locations. The group consisted of three people doing work on CSS, javascri[t dom manipualtion, and handling fetch calls to get data from a Airplane fligth tracker API."
+    },
+    {
+        "projectTitle": "Tech-Splash",
+        "projectImage": "tech-blog.jpg",
+        "projectWebsite": "https://safe-caverns-00312.herokuapp.com/",
+        "projectRepo": "https://github.com/Demsley1/tech-splash",
+        "description": "This application is a blog spot where a user can create an account and contribute to discussions about tech(and any other subject honestly). users not logged-in can view the discussions but wont have access to features like liking posts, and commenting on post's. In addition to those important feature's a signed-in user can also create posts for other's to like and comment on."
+    },
+    {
+        "projectTitle": "Photo-Port",
+        "projectImage": "camera-lens.jpg",
+        "projectWebsite": "https://demsley1.github.io/photo-port/",
+        "projectRepo": "https://github.com/Demsley1/photo-port",
+        "description": "A module project for Columbia engineering coding bootcamp. Displays a fictional `customer's` photo portfolio at a simple react developed website. With no back-end it simplies use react to change the display compnent with button clicks and updates to state."
+    },
+    {
+        "projectTitle": "Conscious Shopper",
+        "projectImage": "conscious-shopper-comp.jpg",
+        "projectWebsite": "https://enigmatic-basin-52191.herokuapp.com/",
+        "projectRepo": "https://github.com/mavisyupyup1/project-3-group-d",
+        "description": "Project created as a collaborative effort with classmates from Columbia coding bootcamp. This project was created using react on both front-end and back-end using concurrentley to run both at the same time. The purpose of this project was to provide a user with a site to look exclusiveley for local businesses that meet a certain criteria like `minority-owned`, or even `women-owned`. The app uses react-router, graphqql, mongodb, react-bootstrap and a few other key technological skills that are further explained on the projects repo site."
+    }
+]
