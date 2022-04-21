@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.3e283a7c.css",
-    "main.js": "/react-portfolio/static/js/main.d3d1900f.js",
+    "main.css": "/react-portfolio/static/css/main.5a941a0b.css",
+    "main.js": "/react-portfolio/static/js/main.085c658e.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/mindgasm.jpg": "/react-portfolio/static/media/mindgasm.8200d44a557a3a874b4b.jpg",
+    "static/media/thought-tree.jpg": "/react-portfolio/static/media/thought-tree.8200d44a557a3a874b4b.jpg",
     "static/media/NYC.jpg": "/react-portfolio/static/media/NYC.333d4b3946c3b5b8aa44.jpg",
+    "static/media/Screen1.png": "/react-portfolio/static/media/Screen1.2882aff44b4f08ad9f98.png",
+    "static/media/Screen3.png": "/react-portfolio/static/media/Screen3.652178def39d1fd21fee.png",
     "static/media/airplane.jpg": "/react-portfolio/static/media/airplane.c2367dea4291bbe77923.jpg",
-    "static/media/Resume-starter.pub": "/react-portfolio/static/media/Resume-starter.3b213e75446364aef8e6.pub",
+    "static/media/Resume-starter.pub": "/react-portfolio/static/media/Resume-starter.bacdd5489dad5b9483ac.pub",
     "static/media/camera-lens.jpg": "/react-portfolio/static/media/camera-lens.0f6f382c5d84f5a97a30.jpg",
+    "static/media/soundwave-wallpaper.jpg": "/react-portfolio/static/media/soundwave-wallpaper.82b9ab2bb51ef4ea9a0a.jpg",
+    "static/media/Screen2.png": "/react-portfolio/static/media/Screen2.cfd0f3646c220e23fa7f.png",
     "static/media/tech-blog.jpg": "/react-portfolio/static/media/tech-blog.1d496dea4c8077672073.jpg",
     "static/media/future-quote.jpg": "/react-portfolio/static/media/future-quote.1cb38f6f204470c74c74.jpg",
+    "static/media/thought-spiral.jpg": "/react-portfolio/static/media/thought-spiral.819c9969a0d735d5c229.jpg",
     "static/media/weather-splash.jpg": "/react-portfolio/static/media/weather-splash.8754c73ccbdc7eb09863.jpg",
-    "static/media/mixer.jpg": "/react-portfolio/static/media/mixer.941e507b6d50284c4b44.jpg",
+    "static/media/backdrop.jpg": "/react-portfolio/static/media/backdrop.345b607a4b18496e1091.jpg",
+    "static/media/DJ-mixer.jpg": "/react-portfolio/static/media/DJ-mixer.941e507b6d50284c4b44.jpg",
     "static/media/conscious-shopper-comp.jpg": "/react-portfolio/static/media/conscious-shopper-comp.6cf6e9573f77902a187a.jpg",
     "static/media/backdrop2.jpg": "/react-portfolio/static/media/backdrop2.6ba11694e3dc167edb1e.jpg",
     "static/media/stack-overflow.png": "/react-portfolio/static/media/stack-overflow.579cff432dec19bc3d23.png",
     "index.html": "/react-portfolio/index.html",
-    "main.3e283a7c.css.map": "/react-portfolio/static/css/main.3e283a7c.css.map",
-    "main.d3d1900f.js.map": "/react-portfolio/static/js/main.d3d1900f.js.map",
+    "main.5a941a0b.css.map": "/react-portfolio/static/css/main.5a941a0b.css.map",
+    "main.085c658e.js.map": "/react-portfolio/static/js/main.085c658e.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e283a7c.css",
-    "static/js/main.d3d1900f.js"
+    "static/css/main.5a941a0b.css",
+    "static/js/main.085c658e.js"
   ]
 }
