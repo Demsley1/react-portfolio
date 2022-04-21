@@ -12,8 +12,8 @@ const Project = () => {
         
         const popover = ( 
             <Popover id="popover-basic">
-                <Popover.Header as="h3" style={{ backgroundColor: "green", textAlign: "center"}}>{projectValue[0].projectTitle}</Popover.Header> 
-                <Popover.Body>
+                <Popover.Header as="h3" style={{ backgroundColor: "rgb(0, 0, 255, .70)", color: "white", textAlign: "center"}}>{projectValue[0].projectTitle}</Popover.Header> 
+                <Popover.Body /*style={{ backgroundColor: "rgb(0, 0, 0, .85)", color: "white" }}*/>
                     {projectValue[0].description}
                 </Popover.Body>
             </Popover>

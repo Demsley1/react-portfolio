@@ -1,0 +1,94 @@
+[
+    {
+        "title": "HTML",
+        "summary": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content."
+    },
+    {
+        "title": "JavaScript",
+        "summary": "A programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard." 
+    },
+    {
+        "title": "CSS",
+        "summary": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media."
+    },
+    {
+        "title": "Handlebars",
+        "summary": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Handlebars compiles templates into JavaScript functions."
+    },
+    {
+        "title": "SQL",
+        "summary": "Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases and perform various operations on the data in them."
+    },
+    {
+        "title": "mySql",
+        "summary": "MySQL is a database management system. It's used to add, access, and process data stored in aSQL database."
+    },
+    {
+        "title": "C#",
+        "summary": "C-Sharp is a programming language developed by Microsoft that runs on the .NET Framework, and is used to develop web apps, desktop apps, mobile apps, games and much more."
+    },
+    {
+        "title": "Inquirer",
+        "summary": "Inquirer is a promise-based npm package used in Node projects to create CLI (Command Line Interface) tools for query-based tasks"
+    },
+    {
+        "title": "Node",
+        "summary": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser."
+    },
+    {
+        "title": "Express",
+        "summary": "Express is a minimal and flexible Node.js back-end and web application framework that provides a robust set of features for web and mobile applications."
+    },
+    {
+        "title": "MongoDB",
+        "summary": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas."
+    },
+    {
+        "title": "Stripe",
+        "summary": "They bring together everything that's required to build websites and apps that accept payments and send payouts globally."
+    },
+    {
+        "title": "React",
+        "summary": "React makes it painless to create interactive UIs. Build encapsulated components that manage their own state, then compose them to make complex UIs."
+    },
+    {
+        "title": "Graphql",
+        "summary": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools."
+    },
+    {
+        "title": "OOP",
+        "summary": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior."
+    },
+    {
+        "title": "NoSql",
+        "summary": "NoSQL databases (aka 'not only SQL') are non-tabular databases and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model."
+    },
+    {
+        "title": "MERN",
+        "summary": "MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js."
+    },
+    {
+        "title": "ORM",
+        "summary": "Object relational mapping (ORM, and O/R mapping tool) in computer science is a programming technique for converting data between type systems using object-oriented programming languages. "
+    },
+    {
+        "title": "DOM manipulation",
+        "summary": "Document Object Model (DOM), a set of APIs for controlling HTML and styling information that makes heavy use of the Document object."
+    },
+    {
+        "title": "PWA",
+        "summary": "Progressive Web Apps (PWAs) are web apps that use service workers, manifests, and other web-platform features in combination with progressive enhancement to give users an experience on par with native apps. Also allowing for use offline in a limited capacity."
+    },
+    {
+        "title": "React-Bootstrap",
+        "summary": "React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery."
+    },
+    {
+        "title": "API",
+        "summary": "API stands for application programming interface, which is a set of definitions and protocols for building and integrating application software."
+    },
+    {
+        "title": "localStorage",
+        "summary": "The localStorage object allows you to save key/value pairs in the browser. The localStorage object stores data with no expiration date."
+    }
+]
